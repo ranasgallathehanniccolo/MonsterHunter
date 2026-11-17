@@ -1,0 +1,50 @@
+[
+  {
+    "id": 17,
+    "name": "Great Jagras",
+    "type": "large",
+    "species": "fanged wyvern",
+    "description": "The pack leader of the Jagras. When engorged, its stomach swells to massive proportions.",
+    "elements": [],
+    "resistances": [
+      { "element": "water", "condition": null }
+    ],
+    "weaknesses": [
+      { "element": "fire", "stars": 3, "condition": null },
+      { "element": "thunder", "stars": 2, "condition": null },
+      { "element": "ice", "stars": 2, "condition": null }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Anjanath",
+    "type": "large",
+    "species": "brute wyvern",
+    "description": "A belligerent monster that patrols the Ancient Forest looking for its favorite meal, Aptonoth.",
+    "elements": ["fire"],
+    "resistances": [
+      { "element": "fire", "condition": null }
+    ],
+    "weaknesses": [
+      { "element": "water", "stars": 3, "condition": null },
+      { "element": "thunder", "stars": 2, "condition": null },
+      { "element": "ice", "stars": 2, "condition": null }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Rathalos",
+    "type": "large",
+    "species": "flying wyvern",
+    "description": "The apex monster of the Ancient Forest, also known as the King of the Skies.",
+    "elements": ["fire", "poison"],
+    "resistances": [
+      { "element": "fire", "condition": null }
+    ],
+    "weaknesses": [
+      { "element": "dragon", "stars": 3, "condition": null },
+      { "element": "thunder", "stars": 2, "condition": null },
+      { "element": "ice", "stars": 1, "condition": null }
+    ]
+  }
+]

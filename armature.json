@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Leather Headgear",
+    "type": "head",
+    "rank": "low",
+    "rarity": 1,
+    "defense": { "base": 2, "max": 38, "augmented": 68 },
+    "resistances": { "fire": 2, "water": 0, "ice": 0, "thunder": 0, "dragon": 0 }
+  },
+  {
+    "id": 231,
+    "name": "Rathalos Helm Alpha",
+    "type": "head",
+    "rank": "high",
+    "rarity": 6,
+    "defense": { "base": 50, "max": 68, "augmented": 84 },
+    "resistances": { "fire": 3, "water": 1, "ice": -2, "thunder": -2, "dragon": -3 }
+  },
+  {
+    "id": 2,
+    "name": "Leather Mail",
+    "type": "chest",
+    "rank": "low",
+    "rarity": 1,
+    "defense": { "base": 2, "max": 38, "augmented": 68 },
+    "resistances": { "fire": 2, "water": 0, "ice": 0, "thunder": 0, "dragon": 0 }
+  },
+  {
+    "id": 232,
+    "name": "Rathalos Mail Alpha",
+    "type": "chest",
+    "rank": "high",
+    "rarity": 6,
+    "defense": { "base": 50, "max": 68, "augmented": 84 },
+    "resistances": { "fire": 3, "water": 1, "ice": -2, "thunder": -2, "dragon": -3 }
+  },
+  {
+    "id": 3,
+    "name": "Leather Gloves",
+    "type": "gloves",
+    "rank": "low",
+    "rarity": 1,
+    "defense": { "base": 2, "max": 38, "augmented": 68 },
+    "resistances": { "fire": 2, "water": 0, "ice": 0, "thunder": 0, "dragon": 0 }
+  },
+  {
+    "id": 233,
+    "name": "Rathalos Vambraces Alpha",
+    "type": "gloves",
+    "rank": "high",
+    "rarity": 6,
+    "defense": { "base": 50, "max": 68, "augmented": 84 },
+    "resistances": { "fire": 3, "water": 1, "ice": -2, "thunder": -2, "dragon": -3 }
+  },
+  {
+    "id": 4,
+    "name": "Leather Belt",
+    "type": "waist",
+    "rank": "low",
+    "rarity": 1,
+    "defense": { "base": 2, "max": 38, "augmented": 68 },
+    "resistances": { "fire": 2, "water": 0, "ice": 0, "thunder": 0, "dragon": 0 }
+  },
+  {
+    "id": 234,
+    "name": "Rathalos Coil Alpha",
+    "type": "waist",
+    "rank": "high",
+    "rarity": 6,
+    "defense": { "base": 50, "max": 68, "augmented": 84 },
+    "resistances": { "fire": 3, "water": 1, "ice": -2, "thunder": -2, "dragon": -3 }
+  },
+  {
+    "id": 5,
+    "name": "Leather Trousers",
+    "type": "legs",
+    "rank": "low",
+    "rarity": 1,
+    "defense": { "base": 2, "max": 38, "augmented": 68 },
+    "resistances": { "fire": 2, "water": 0, "ice": 0, "thunder": 0, "dragon": 0 }
+  },
+  {
+    "id": 235,
+    "name": "Rathalos Greaves Alpha",
+    "type": "legs",
+    "rank": "high",
+    "rarity": 6,
+    "defense": { "base": 50, "max": 68, "augmented": 84 },
+    "resistances": { "fire": 3, "water": 1, "ice": -2, "thunder": -2, "dragon": -3 }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Buster Sword I",
+    "type": "great-sword",
+    "rarity": 1,
+    "attack": {
+      "display": 384,
+      "raw": 80
+    },
+    "elderseal": null,
+    "attributes": {},
+    "damageType": "sever",
+    "elements": []
+  },
+  {
+    "id": 50,
+    "name": "Pulsar Shotel I",
+    "type": "long-sword",
+    "rarity": 3,
+    "attack": {
+      "display": 396,
+      "raw": 120
+    },
+    "elderseal": null,
+    "attributes": {
+      "affinity": 10
+    },
+    "damageType": "sever",
+    "elements": [
+      {
+        "type": "thunder",
+        "damage": 150,
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Rathalos Firesword",
+    "type": "great-sword",
+    "rarity": 6,
+    "attack": {
+      "display": 816,
+      "raw": 170
+    },
+    "elderseal": null,
+    "attributes": {
+      "affinity": 15
+    },
+    "damageType": "sever",
+    "elements": [
+      {
+        "type": "fire",
+        "damage": 240,
+        "hidden": false
+      }
+    ]
+  }
+]
